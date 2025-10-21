@@ -4,7 +4,7 @@
 #include <DHT.h>
 #include <ESP8266HTTPClient.h>
 
-// --- WiFi ---
+// --- WiFi --
 const char* ssid = "iPhone";
 const char* password = "123456789";
 
